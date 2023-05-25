@@ -1,0 +1,30 @@
+CRITICAL - 2023-05-23 13:54:58 --> Invalid file: "artikel/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('artikel/index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(11): view('artikel/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-23 13:55:03 --> Invalid file: "artikel/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('artikel/index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(11): view('artikel/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab11_php_ci\\ci4\\public\\index.php')
+CRITICAL - 2023-05-23 13:59:26 --> Invalid file: "artikel/index.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/index.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('artikel/index', [], true)
+ 3 APPPATH\Controllers\Artikel.php(11): view('artikel/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Artikel->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Artikel))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\lab11_php_ci\\ci4\\public\\index.php')
