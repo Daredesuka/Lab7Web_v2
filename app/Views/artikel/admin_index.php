@@ -1,4 +1,10 @@
 <?= $this->include('template/admin_header'); ?>
+
+<form method="get" class="form-search">
+    <input type="text" name="q" value="<?= $q; ?>" placeholder="Cari data">
+    <input type="submit" value="Cari" class="btn btn-primary">
+</form>
+
 <table border="1" cellpadding="20" cellspacing="0" width=100% style="text-align:center" class="table">
     <thead>
         <tr>
@@ -30,5 +36,7 @@
         <?php endif; ?>
     </tbody>
 </table>
+
+<?= $pager->only(['q'])->links(); ?>
 
 <?= $this->include('template/admin_footer'); ?>
