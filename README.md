@@ -14,3 +14,7 @@
 ![Screenshot (689)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/b7b5ecb1-714d-4080-97e6-cbde08d3a40f)
 ![Screenshot (690)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/3465f660-05cb-4ba1-9204-d15b6bc15cac)
 ![Screenshot (691)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/7c93c305-d993-4122-a212-9182d47e8356)
+![Screenshot (697)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/f4808cf9-6dfe-431f-8f8c-05910a24163c)
+![Screenshot (698)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/15ea8ef4-4a64-4c11-a878-93e802e5b2f4)
+![Screenshot (700)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/396352e4-7131-4fd4-9564-671d66ab8823)
+![Screenshot (699)](https://github.com/Daredesuka/Lab7Web_v2/assets/127408886/5d776050-d69f-4cb6-acd4-82f6351f18d0)
