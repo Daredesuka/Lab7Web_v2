@@ -43,6 +43,7 @@ $routes->group('admin', ['filters' => 'auth'], function($routes) {
     $routes->add('artikel/edit/(:any)', 'Artikel::edit/$1');
     $routes->get('artikel/delete/(:any)', 'Artikel::delete/$1');
 });
+$routes->resource('post');
 /*
  * --------------------------------------------------------------------
  * Additional Routing
